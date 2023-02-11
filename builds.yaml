@@ -3,18 +3,18 @@ inputs:
     metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
     sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
   - name: "reference_data"
-    metadata: "deltaInGreaterHoustonArea/data/references_metadata.tsv"
-    sequences: "deltaInGreaterHoustonArea/data/references_sequences.fasta"
+    metadata: "surveillanceInTexas/data/references_metadata.tsv"
+    sequences: "surveillanceInTexas/data/references_sequences.fasta"
     
 builds:
   houston:
-    title: "Genomic epidemiology of Delta variant in the Greater Houston, TX"
+    title: "the surveillance on Delta variant in Texas"
     subsampling_scheme: all
-    auspice_config: "deltaInGreaterHoustonArea/auspice_config_houston.json"
+    auspice_config: "surveillanceInTexas/auspice_config_houston.json"
 
 files:
-  colors: "deltaInGreaterHoustonArea/colors.tsv"
-  description: "deltaInGreaterHoustonArea/description.md"
+  colors: "surveillanceInTexas/colors.tsv"
+  description: "surveillanceInTexas/description.md"
 
 traits:
   houston:
