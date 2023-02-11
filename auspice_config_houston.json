@@ -1,0 +1,54 @@
+{
+  "title": "Genomic epidemiology of Delta variant in the Greater Houston, TX",
+  "build_url": "https://github.com/leke-lyu/deltaInGreaterHoustonArea",
+  "maintainers": [
+    {"name": "Leke Lyu", "url": "https://github.com/leke-lyu"}
+  ],
+  "colorings": [
+    {
+      "key": "GISAID_clade",
+      "title": "GISAID Clade",
+      "type": "categorical"
+    },
+    {
+      "key": "location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "age",
+      "title": "Age",
+      "type": "continuous"
+    },
+    {
+      "key": "sex",
+      "title": "Sex",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "location"
+  ],
+  "display_defaults": {
+    "color_by": "location",
+    "distance_measure": "num_date",
+    "geo_resolution": "location",
+    "map_triplicate": true,
+    "branch_label": "none"
+  },
+  "filters": [
+    "recency",
+    "clade_membership",
+    "location",
+    "division",
+    "country",
+    "region",
+    "host",
+    "author"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ]
+}
