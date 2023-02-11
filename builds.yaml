@@ -1,7 +1,7 @@
 inputs:
   - name: "custom_data"
-    metadata: "deltaInGreaterHoustonArea/data/deltaInTexas.metadata.tsv"
-    sequences: "deltaInGreaterHoustonArea/data/deltaInTexas.sequences.fasta"
+    metadata: "surveillanceInTexas/data/deltaInTexas.metadata.tsv"
+    sequences: "surveillanceInTexas/data/deltaInTexas.sequences.fasta"
   - name: "reference_data"
     metadata: "surveillanceInTexas/data/references_metadata.tsv"
     sequences: "surveillanceInTexas/data/references_sequences.fasta"
