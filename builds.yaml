@@ -10,11 +10,10 @@ builds:
     auspice_config: "surveillanceInTexas/auspice_config_houston.json"
 
 files:
-  colors: "surveillanceInTexas/colors.tsv"
   description: "surveillanceInTexas/description.md"
 
 traits:
   houston:
-    columns: ["location"]
+    columns: ["division", "location"]
 
 
