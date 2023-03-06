@@ -16,6 +16,11 @@
       "type": "categorical"
     },
     {
+      "key": "division",
+      "title": "Admin Division",
+      "type": "categorical"
+    },
+    {
       "key": "age",
       "title": "Age",
       "type": "continuous"
@@ -27,7 +32,8 @@
     }
   ],
   "geo_resolutions": [
-    "location"
+    "location",
+    "division"
   ],
   "display_defaults": {
     "color_by": "location",
