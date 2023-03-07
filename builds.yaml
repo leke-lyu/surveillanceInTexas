@@ -11,6 +11,7 @@ builds:
 
 files:
   description: "surveillanceInTexas/description.md"
+  colors: "surveillanceInTexas/colors.tsv"
 
 traits:
   houston:
