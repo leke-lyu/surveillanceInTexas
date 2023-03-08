@@ -1,218 +1,34 @@
 division	4/5N	#E41A1C
-division	9/10	#377EB8
-division	11	#4DAF4A
-division	1	#984EA3
-division	8	#FF7F00
-division	6/5S	#FFFF33
-division	7	#A65628
-division	2/3	#F781BF
-division	Asia	#999999
-location	Bexar county	#E41A1C
-location	Harris county	#DD1D22
-location	Travis county	#D62128
-location	El Paso county	#D0252E
-location	Dallas county	#C92934
-location	Lubbock county	#C22D3A
-location	Tarrant county	#BC3140
-location	Denton county	#B53446
-location	Brazos county	#AE384C
-location	Williamson county	#A83C52
-location	Hidalgo county	#A14058
-location	Kaufman county	#9A445E
-location	Collin county	#944864
-location	Gillespie county	#8D4C6A
-location	Guadalupe county	#864F70
-location	Ellis county	#805376
-location	Jefferson county	#79577C
-location	McLennan county	#725B82
-location	Fort Bend county	#6C5F88
-location	Taylor county	#65638E
-location	San Patricio county	#5E6694
-location	Montgomery county	#586A9A
-location	Liberty county	#516EA0
-location	Rockwall county	#4A72A6
-location	Red River county	#4476AC
-location	Waller county	#3D7AB2
-location	Gregg county	#377EB8
-location	Midland county	#377FB3
-location	Johnson county	#3881AF
-location	Chambers county	#3983AB
-location	Wise county	#3A85A7
-location	Smith county	#3B87A2
-location	Galveston county	#3C899E
-location	Nueces county	#3C8B9A
-location	Brazoria county	#3D8D96
-location	Comal county	#3E8E91
-location	Webb county	#3F908D
-location	Tom Green county	#409289
-location	Nacogdoches county	#419485
-location	Coryell county	#419681
-location	Randall county	#42987C
-location	Potter county	#439A78
-location	Atascosa county	#449C74
-location	Matagorda county	#459E70
-location	Hays county	#469F6B
-location	Fayette county	#47A167
-location	Victoria county	#47A363
-location	Zavala county	#48A55F
-location	Wichita county	#49A75A
-location	Hunt county	#4AA956
-location	Wharton county	#4BAB52
-location	Caldwell county	#4CAD4E
-location	Bell county	#4DAF4A
-location	Grayson county	#4FAB4D
-location	Bastrop county	#52A750
-location	Cameron county	#55A354
-location	Bee county	#58A057
-location	Polk county	#5B9C5B
-location	Henderson county	#5E985E
-location	Angelina county	#619461
-location	Uvalde county	#649165
-location	Parker county	#668D68
-location	San Jacinto county	#69896C
-location	Ector county	#6C856F
-location	Kendall county	#6F8273
-location	Grimes county	#727E76
-location	Nolan county	#757A79
-location	Brown county	#78777D
-location	Cooke county	#7B7380
-location	Aransas county	#7E6F84
-location	Anderson county	#806B87
-location	Orange county	#83688B
-location	Hardin county	#86648E
-location	Hill county	#896091
-location	Wilbarger county	#8C5C95
-location	Bowie county	#8F5998
-location	Calhoun county	#92559C
-location	Montague county	#95519F
-location	Camp county	#984EA3
-location	DeWitt county	#9B4F9C
-location	Walker county	#9F5196
-location	Hood county	#A35390
-location	Willacy county	#A75589
-location	Robertson county	#AB5783
-location	Lavaca county	#AF597D
-location	Presidio county	#B35B77
-location	Cherokee county	#B75D70
-location	Wilson county	#BB5E6A
-location	Medina county	#BF6064
-location	Jim Wells county	#C3625E
-location	Eastland county	#C76457
-location	Live Oak county	#CB6651
-location	Leon county	#CF684B
-location	Hockley county	#D36A44
-location	Lamar county	#D76C3E
-location	Jack county	#DB6E38
-location	Jasper county	#DF6F32
-location	Fannin county	#E3712B
-location	Tyler county	#E77325
-location	Van Zandt county	#EB751F
-location	Palo Pinto county	#EF7719
-location	Gaines county	#F37912
-location	Navarro county	#F77B0C
-location	Gonzales county	#FB7D06
-location	Trinity county	#FF7F00
-location	Bandera county	#FF8301
-location	Coke county	#FF8803
-location	Hale county	#FF8D05
-location	Callahan county	#FF9207
-location	Runnels county	#FF9709
-location	Coleman county	#FF9C0B
-location	Newton county	#FFA10D
-location	Parmer county	#FFA60F
-location	Duval county	#FFAB11
-location	Austin county	#FFB013
-location	Houston county	#FFB515
-location	Bosque county	#FFBA17
-location	Washington county	#FFBF19
-location	Comanche county	#FFC31B
-location	Burleson county	#FFC81D
-location	Llano county	#FFCD1F
-location	Falls county	#FFD221
-location	Somervell county	#FFD723
-location	Colorado county	#FFDC25
-location	Real county	#FFE127
-location	Dawson county	#FFE629
-location	Armstrong county	#FFEB2B
-location	Burnet county	#FFF02D
-location	Sabine county	#FFF52F
-location	Hopkins county	#FFFA31
-location	Dimmit county	#FFFF33
-location	Kerr county	#FBF832
-location	Glasscock county	#F8F132
-location	Rusk county	#F4EB31
-location	Crosby county	#F1E431
-location	Starr county	#EDDE30
-location	Mitchell county	#EAD830
-location	Erath county	#E7D130
-location	Ochiltree county	#E3CA2F
-location	Winkler county	#E0C42F
-location	Rains county	#DCBD2E
-location	Jackson county	#D9B72E
-location	Jones county	#D5B12D
-location	Ward county	#D2AA2D
-location	Freestone county	#CFA42D
-location	Cass county	#CB9D2C
-location	Lee county	#C8962C
-location	Lynn county	#C4902B
-location	Castro county	#C1892B
-location	Harrison county	#BD832A
-location	Lampasas county	#BA7D2A
-location	Moore county	#B7762A
-location	Deaf Smith county	#B36F29
-location	Briscoe county	#B06929
-location	Carson county	#AC6228
-location	Sherman county	#A95C28
-location	Upton county	#A65628
-location	Cochran county	#A9572D
-location	Terry county	#AC5933
-location	Reagan county	#AF5A39
-location	Lamb county	#B25C3F
-location	Fisher county	#B55E45
-location	Hemphill county	#B85F4A
-location	Reeves county	#BB6150
-location	Dickens county	#BE6356
-location	Lipscomb county	#C2645C
-location	Pecos county	#C56662
-location	Oldham county	#C86867
-location	Floyd county	#CB696D
-location	Kimble county	#CE6B73
-location	Shelby county	#D16D79
-location	Upshur county	#D46E7F
-location	Zapata county	#D77084
-location	Haskell county	#DA728A
-location	Scurry county	#DE7390
-location	Milam county	#E17596
-location	Titus county	#E4779C
-location	Madison county	#E778A1
-location	La Salle county	#EA7AA7
-location	Frio county	#ED7CAD
-location	Yoakum county	#F07DB3
-location	Morris county	#F37FB9
-location	Clay county	#F781BF
-location	Donley county	#F381BD
-location	Karnes county	#EF82BC
-location	Hamilton county	#EC83BA
-location	Goliad county	#E884B9
-location	San Augustine county	#E485B7
-location	Val Verde county	#E186B6
-location	Brooks county	#DD87B4
-location	Hardeman county	#DA88B3
-location	Kleberg county	#D689B1
-location	McMullen county	#D28AB0
-location	Hudspeth county	#CF8BAE
-location	Maverick county	#CB8CAD
-location	Wood county	#C88DAC
-location	Howard county	#C48DAA
-location	Irion county	#C08EA9
-location	Blanco county	#BD8FA7
-location	Limestone county	#B990A6
-location	Garza county	#B591A4
-location	Andrews county	#B292A3
-location	Panola county	#AE93A1
-location	Marion county	#AB94A0
-location	Hutchinson county	#A7959E
-location	Martin county	#A3969D
-location	Delta county	#A0979B
-location	Gray county	#9C989A
-location	Asia	#999999
+division	9/10	#3A85A8
+division	11	#629363
+division	1	#C4625D
+division	8	#FFC81D
+division	6/5S	#BF862B
+division	7	#EB7AA9
+division	2/3	#999999
+location	None	#E41A1C
+location	Corpus Christi	#AC3A4D
+location	Amarillo	#755A7F
+location	San Antonio	#3D7AB1
+location	Houston	#3D8B99
+location	Austin	#449B75
+location	Killeen	#4BAB52
+location	Texarkana	#5F975F
+location	Bryan-College Station	#77787B
+location	Abilene	#8F5998
+location	Brownsville	#AC5782
+location	Wichita Falls	#CD674E
+location	Dallas-Fort Worth	#EE771A
+location	Lubbock	#FF9308
+location	Odessa	#FFBC18
+location	El Paso	#FFE528
+location	Waco	#F4EA31
+location	Victoria	#D7B42E
+location	Sherman	#BB7E2A
+location	Longview	#AC5934
+location	Beaumont-Port Arthur	#C66764
+location	McAllen	#E07494
+location	San Angelo	#F381BD
+location	Midland	#D589B1
+location	Tyler	#B791A5
+location	Laredo	#999999
