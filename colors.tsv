@@ -1,34 +1,36 @@
 division	4/5N	#E41A1C
-division	9/10	#3A85A8
-division	11	#629363
-division	1	#C4625D
-division	8	#FFC81D
-division	6/5S	#BF862B
-division	7	#EB7AA9
-division	2/3	#999999
+division	9/10	#377EB8
+division	11	#4DAF4A
+division	1	#984EA3
+division	8	#FF7F00
+division	6/5S	#FFFF33
+division	7	#A65628
+division	2/3	#F781BF
+division	context	#999999
 location	rural	#E41A1C
-location	Corpus Christi	#AC3A4D
-location	Amarillo	#755A7F
-location	San Antonio	#3D7AB1
-location	Houston	#3D8B99
-location	Austin	#449B75
-location	Killeen	#4BAB52
-location	Texarkana	#5F975F
-location	Bryan-College Station	#77787B
-location	Abilene	#8F5998
-location	Brownsville	#AC5782
-location	Wichita Falls	#CD674E
-location	Dallas-Fort Worth	#EE771A
-location	Lubbock	#FF9308
-location	Odessa	#FFBC18
-location	El Paso	#FFE528
-location	Waco	#F4EA31
-location	Victoria	#D7B42E
-location	Sherman	#BB7E2A
-location	Longview	#AC5934
-location	Beaumont-Port Arthur	#C66764
-location	McAllen	#E07494
-location	San Angelo	#F381BD
-location	Midland	#D589B1
-location	Tyler	#B791A5
-location	Laredo	#999999
+location	Corpus Christi	#AE384C
+location	Amarillo	#79577C
+location	San Antonio	#4476AC
+location	Houston	#3C899E
+location	Austin	#42987C
+location	Killeen	#49A75A
+location	Texarkana	#58A057
+location	Bryan-College Station	#6F8273
+location	Abilene	#86648E
+location	Brownsville	#9F5196
+location	Wichita Falls	#BF6064
+location	Dallas-Fort Worth	#DF6F32
+location	Lubbock	#FF7F00
+location	Odessa	#FFA60F
+location	El Paso	#FFCD1F
+location	Waco	#FFF52F
+location	Victoria	#EAD830
+location	Sherman	#CFA42D
+location	Longview	#B36F29
+location	Beaumont-Port Arthur	#B25C3F
+location	McAllen	#CB696D
+location	San Angelo	#E4779C
+location	Midland	#EF82BC
+location	Tyler	#D28AB0
+location	Laredo	#B591A4
+location	context	#999999
