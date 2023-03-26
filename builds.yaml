@@ -15,7 +15,7 @@ builds:
 subsampling:
   state-territory:
     local-focus:
-      max_sequences: 15000
+      max_sequences: 12000
       query: --query "(focus == 'yes')"
 
 files:
