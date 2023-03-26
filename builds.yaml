@@ -3,23 +3,7 @@ inputs:
     metadata: "surveillanceInTexas/data/references_metadata.tsv"
     sequences: "surveillanceInTexas/data/references_sequences.fasta"
   - name: "focus"
-    metadata: "surveillanceInTexas/data/25k_00.metadata.tsv"
-    sequences: "surveillanceInTexas/data/25k_00.metadata.tsv"
-    metadata: "surveillanceInTexas/data/25k_01.metadata.tsv"
-    sequences: "surveillanceInTexas/data/25k_01.metadata.tsv"
-    metadata: "surveillanceInTexas/data/25k_02.metadata.tsv"
-    sequences: "surveillanceInTexas/data/25k_02.metadata.tsv"
-    metadata: "surveillanceInTexas/data/25k_03.metadata.tsv"
-    sequences: "surveillanceInTexas/data/25k_03.metadata.tsv"
-    metadata: "surveillanceInTexas/data/25k_04.metadata.tsv"
-    sequences: "surveillanceInTexas/data/25k_04.metadata.tsv"
   - name: "context"
-    metadata: "surveillanceInTexas/data/contextual_00.metadata.tsv"
-    sequences: "surveillanceInTexas/data/contextual_00.sequences.fasta"
-    metadata: "surveillanceInTexas/data/contextual_01.metadata.tsv"
-    sequences: "surveillanceInTexas/data/contextual_01.sequences.fasta"
-    metadata: "surveillanceInTexas/data/contextual_02.metadata.tsv"
-    sequences: "surveillanceInTexas/data/contextual_02.sequences.fasta"
     
 builds:
   houston:
