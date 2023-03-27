@@ -2,8 +2,6 @@ inputs:
   - name: "reference_data"
     metadata: "surveillanceInTexas/data/references_metadata.tsv"
     sequences: "surveillanceInTexas/data/references_sequences.fasta"
-  - name: "focus"
-  - name: "context"
     
 builds:
   houston:
