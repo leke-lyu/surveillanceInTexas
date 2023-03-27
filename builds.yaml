@@ -10,13 +10,6 @@ builds:
     title: "the surveillance on Delta variant in Texas"
     subsampling_scheme: all
     auspice_config: "surveillanceInTexas/auspice_config_houston.json"
-    subsampling_scheme: state-territory
-    
-subsampling:
-  state-territory:
-    local-focus:
-      max_sequences: 12000
-      query: --query "(focus == 'yes')"
 
 files:
   description: "surveillanceInTexas/description.md"
