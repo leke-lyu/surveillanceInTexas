@@ -3,7 +3,7 @@
 Use Git to download a copy of the `ncov` repository containing the workflow.
 
 ```shell
-git clone https://github.com/nextstrain/ncov.git
+git clone https://github.com/nextstrain/ncov.git --branch v12
 ```
 
 Change directory to the `ncov` directory:
