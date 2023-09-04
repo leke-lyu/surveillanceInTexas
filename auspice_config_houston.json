@@ -26,11 +26,6 @@
       "type": "categorical"
     },
     {
-      "key": "country",
-      "title": "texas vs contextual",
-      "type": "categorical"
-    },
-    {
       "key": "age",
       "title": "Age",
       "type": "continuous"
@@ -43,8 +38,7 @@
   ],
   "geo_resolutions": [
     "location",
-    "division",
-    "country"
+    "division"
   ],
   "display_defaults": {
     "color_by": "location",
