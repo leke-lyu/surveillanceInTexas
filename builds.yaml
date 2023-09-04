@@ -15,6 +15,6 @@ files:
 
 traits:
   houston:
-    columns: ["country", "division", "location"]
+    columns: ["division", "location"]
 
 
