@@ -1,13 +1,4 @@
-country	USA	#E41A1C
-country	context	#999999
-division	4/5N	#E41A1C
-division	9/10	#377EB8
-division	11	#4DAF4A
-division	1	#984EA3
-division	8	#FF7F00
-division	6/5S	#FFFF33
-division	7	#A65628
-division	2/3	#F781BF
+division	Texas	#E41A1C
 division	context	#999999
 location	rural	#E41A1C
 location	Corpus Christi	#AE384C
