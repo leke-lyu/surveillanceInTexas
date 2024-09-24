@@ -18,14 +18,14 @@ Download this repository into a new subdirectory of `ncov` called `surveillanceI
 git clone https://github.com/leke-lyu/surveillanceInTexas.git
 ```
 
-Replace the `lat_longs.tsv`:
+Replace the `lat_longs.tsv` and the reference genome:
 
 ```shell
-rm defaults/lat_longs.tsv
 cp surveillanceInTexas/lat_longs.tsv defaults/
+cp surveillanceInTexas/references_metadata.tsv data/
+cp surveillanceInTexas/references_sequences.fasta data/
 ```
-
-From within the `ncov` directory, run the workflow using a configuration file provided in the tutorial directory:
+After load your data, run the workflow within the `ncov` directory using a configuration file provided in the tutorial directory:
 
 ```shell
 nextstrain build . --configfile surveillanceInTexas/builds.yaml 
