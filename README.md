@@ -1,4 +1,4 @@
-# Nextstrain Instance: the surveillance on Delta variant in Texas
+# Nextstrain Instance: the genomic surveillance of Delta outbreak in Texas
 
 Use Git to download a copy of the `ncov` repository containing the workflow.
 
