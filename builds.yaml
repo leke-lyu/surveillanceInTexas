@@ -1,20 +1,23 @@
 inputs:
-  - name: "reference_data"
-    metadata: "surveillanceInTexas/data/references_metadata.tsv"
-    sequences: "surveillanceInTexas/data/references_sequences.fasta"
+  - name: reference_data
+    metadata: data/references_metadata.tsv
+    sequences: data/references_sequences.fasta
+    
+refine:
+  root: "Wuhan/Hu-1/2019"
     
 builds:
-  houston:
+  texas:
     title: "the surveillance on Delta variant in Texas"
     subsampling_scheme: all
-    auspice_config: "surveillanceInTexas/auspice_config_houston.json"
+    auspice_config: surveillanceInTexas/auspice_config_texas.json
 
 files:
-  description: "surveillanceInTexas/description.md"
-  colors: "surveillanceInTexas/colors.tsv"
+  description: surveillanceInTexas/description.md
+  colors: surveillanceInTexas/colors.tsv
 
 traits:
-  houston:
+  texas:
     columns: ["division", "location"]
 
 
